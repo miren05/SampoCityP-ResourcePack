@@ -17,38 +17,38 @@
 			}
 		]
 	},
-	"12": {
+	"inbound-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/12",
+				"name": "mutannounce/inbound-arriving-warn",
 				"stream": true
 			}
 		]
 	},
-	"13": {
+	"inbound-pass": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/13",
+				"name": "mutannounce/inbound-pass-warn",
 				"stream": true
 			}
 		]
 	},
-	"14": {
+	"outbound-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/14",
+				"name": "mutannounce/outbound-arriving-warn",
 				"stream": true
 			}
 		]
 	},
-	"15": {
+	"outbound-pass": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/15",
+				"name": "mutannounce/outbound-pass-warn",
 				"stream": true
 			}
 		]

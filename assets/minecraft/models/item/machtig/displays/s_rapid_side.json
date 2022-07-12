@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "testtraindisplay",
+	"textures": {
+		"1": "items/machtig/displays/s_rap"
+	},
+	"elements": [
+		{
+			"from": [-0.6, 15.2, 5],
+			"to": [-0.6, 17.2, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"east": {"uv": [0, 0, 6, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 6, 0, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [16.6, 15.2, 9],
+			"to": [16.6, 17.2, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [0, 6, 0, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
