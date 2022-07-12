@@ -1,5 +1,5 @@
 # SampoCityP-ResourcePack
-このリソースパックによって、TrainCarts用の車両・台車・方向幕、TrainCartsCoasters用の線路が追加されます。
+このリソースパックを導入することによって、TrainCarts用の車両・台車・方向幕、TrainCartsCoasters用の線路が追加されます。
 
 This resource pack will contain some trains, rails and LED displays.
 
