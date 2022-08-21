@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "bogiewithm",
+	"parent": "train",
 	"textures": {
 		"0": "items/machtig/trains/test_train",
 		"1": "items/machtig/trains/bodyinstripe_top",
