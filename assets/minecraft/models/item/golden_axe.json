@@ -14,7 +14,7 @@
 		{ "_cmd_": "give @p minecraft:golden_axe 1 7 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.21212121212121213}, "model": "item/machtig/displays/rapid_side"},
 		{ "_cmd_": "give @p minecraft:golden_axe 1 8 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.24242424242424243}, "model": "item/machtig/displays/express_side"},
 		{ "_cmd_": "give @p minecraft:golden_axe 1 9 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.2727272727272727}, "model": "item/machtig/displays/s_rapid_side"},
-		{ "_cmd_": "give @p minecraft:golden_axe 1 10 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.30303030303030304}, "model": "item/machtig/displays/sampoliner_side"},
+		{ "_cmd_": "give @p minecraft:golden_axe 1 10 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.30303030303030304}, "model": "item/machtig/displays/liner_side"},
 		{ "_cmd_": "give @p minecraft:golden_axe 1 11 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.33333333333333337}, "model": "item/machtig/displays/s_express_side"},
 		{ "_cmd_": "give @p minecraft:golden_axe 1 12 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.36363636363636365}, "model": "item/machtig/displays/s_express_side2"},
 		{ "_cmd_": "give @p minecraft:golden_axe 1 13 {Unbreakable:1}","predicate": {"damaged": 0, "damage": 0.3939393939393939}, "model": "item/machtig/displays/for_fri_side"},

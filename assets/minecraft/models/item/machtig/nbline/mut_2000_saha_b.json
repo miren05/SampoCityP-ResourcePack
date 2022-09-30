@@ -4,16 +4,18 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "items/machtig/trains/test_train3",
-		"1": "items/machtig/trains/bodyinstripe_top",
+		"1": "items/machtig/trains/bodyinstripe_top_yn",
 		"2": "items/machtig/trains/body",
-		"3": "items/machtig/trains/bodyinstripe_side",
+		"3": "items/machtig/trains/bodyinstripe_side_yn",
 		"4": "items/machtig/trains/glass",
 		"5": "items/machtig/trains/lcdbox",
-		"6": "items/machtig/trains/sinnanline_floor",
+		"6": "items/machtig/trains/nambokuline_floor",
 		"7": "items/machtig/trains/train_heater",
 		"8": "items/machtig/trains/trainseat_subway",
 		"9": "items/machtig/trains/mut_1000_door_inside",
-		"10": "items/machtig/trains/mut_1000_door_outside",
+		"10": "items/machtig/trains/mut_2000_door_outside",
+		"11": "items/machtig/trains/2000side_withletters",
+		"12": "items/machtig/trains/2000side_withletters_mr",
 		"particle": "items/machtig/trains/test_train3"
 	},
 	"elements": [
@@ -365,7 +367,7 @@
 				"north": {"uv": [10.25, 11.75, 10.375, 12.5], "texture": "#0"},
 				"east": {"uv": [3, 8.5, 3.5, 9.25], "texture": "#0"},
 				"south": {"uv": [11.75, 10.75, 11.875, 11.5], "texture": "#0"},
-				"west": {"uv": [5.625, 8.5, 6.125, 9.25], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#12"},
 				"up": {"uv": [4, 7.125, 3.875, 6.625], "texture": "#0"},
 				"down": {"uv": [7.25, 6.125, 7.125, 6.625], "texture": "#0"}
 			}
@@ -698,7 +700,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [17, 0, 0]},
 			"faces": {
 				"north": {"uv": [11.625, 11.75, 11.75, 12.5], "texture": "#0"},
-				"east": {"uv": [6.25, 8.5, 6.75, 9.25], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#11"},
 				"south": {"uv": [11.875, 1.375, 12, 2.125], "texture": "#0"},
 				"west": {"uv": [8.125, 8.5, 8.625, 9.25], "texture": "#0"},
 				"up": {"uv": [5.125, 12.875, 5, 12.375], "texture": "#0"},

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "600SaHaB",
+	"parent": "600saha_b",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "items/machtig/trains/600saha_b",
