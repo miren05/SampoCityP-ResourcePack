@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "600KuHa",
+	"parent": "600kuha",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "items/machtig/trains/600kuha",

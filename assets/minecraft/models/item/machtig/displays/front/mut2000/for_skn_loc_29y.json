@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "testtrain3",
+	"textures": {
+		"0": "items/machtig/displays/front/new/for_skn_loc_front_29y"
+	},
+	"elements": [
+		{
+			"from": [0.4, 15.8, 25.7],
+			"to": [2.3, 17.3, 25.7],
+			"faces": {
+				"north": {"uv": [9.5, 4.5, 10.25, 4.75], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 0.25], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4.1105, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.25], "texture": "#missing"},
+				"up": {"uv": [0.75, 0, 0, 0], "texture": "#missing"},
+				"down": {"uv": [0.75, 0, 0, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [10.5, 15.8, 25.7],
+			"to": [15.6, 17.2, 25.7],
+			"faces": {
+				"north": {"uv": [9.5, 4.5, 10.25, 4.75], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 0.25], "texture": "#missing"},
+				"south": {"uv": [4.1105, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.25], "texture": "#missing"},
+				"up": {"uv": [0.75, 0, 0, 0], "texture": "#missing"},
+				"down": {"uv": [0.75, 0, 0, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 0, 34],
+			"scale": [4, 4, 4]
+		}
+	}
+}
