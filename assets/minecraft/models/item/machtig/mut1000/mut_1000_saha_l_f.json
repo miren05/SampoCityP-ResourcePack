@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mut_1000_saha_rl_r",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "items/machtig/trains/mut_1000_door_inside",
+		"1": "items/machtig/trains/mut_2000_door_outside",
+		"particle": "items/machtig/trains/mut_1000_door_inside"
+	},
+	"elements": [
+		{
+			"from": [-0.6, 1.4, -14.34],
+			"to": [-0.4, 14.7, -9.74],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -4]},
+			"faces": {
+				"north": {"uv": [15.91402, 15.375, 16, 16], "texture": "#1"},
+				"east": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [7.97256, 12.40915, 8.03902, 13.03415], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#1"},
+				"up": {"uv": [0.125, 16, 0, 15.5], "texture": "#1"},
+				"down": {"uv": [16, 15.5, 15.875, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-0.6, 1.4, 15.8],
+			"to": [-0.4, 14.7, 20.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -4]},
+			"faces": {
+				"north": {"uv": [15.91402, 15.375, 16, 16], "texture": "#1"},
+				"east": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [7.97256, 12.40915, 8.03902, 13.03415], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#1"},
+				"up": {"uv": [0.125, 16, 0, 15.5], "texture": "#1"},
+				"down": {"uv": [16, 15.5, 15.875, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}

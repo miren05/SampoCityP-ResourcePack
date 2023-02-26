@@ -53,74 +53,74 @@
 			}
 		]
 	},
-	"16": {
+	"tr1-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/16",
+				"name": "mutannounce/tr1-arriving",
 				"stream": true
 			}
 		]
 	},
-	"17": {
+	"tr2-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/17",
+				"name": "mutannounce/tr2-arriving",
 				"stream": true
 			}
 		]
 	},
-	"18": {
+	"tr3-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/18",
+				"name": "mutannounce/tr3-arriving",
 				"stream": true
 			}
 		]
 	},
-	"19": {
+	"tr4-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/19",
+				"name": "mutannounce/tr4-arriving",
 				"stream": true
 			}
 		]
 	},
-	"20": {
+	"tr5-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/20",
+				"name": "mutannounce/tr5-arriving",
 				"stream": true
 			}
 		]
 	},
-	"21": {
+	"tr6-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/21",
+				"name": "mutannounce/tr6-arriving",
 				"stream": true
 			}
 		]
 	},
-	"22": {
+	"tr7-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/22",
+				"name": "mutannounce/tr7-arriving",
 				"stream": true
 			}
 		]
 	},
-	"23": {
+	"tr8-arriving": {
 		"category": "record",
 		"sounds": [
 			{
-				"name": "exrailsystem/23",
+				"name": "mutannounce/tr8-arriving",
 				"stream": true
 			}
 		]

@@ -1,0 +1,29 @@
+{
+    "sources": [
+			{
+			  "type":"directory",
+			  "source":"items/machtig",
+			  "prefix":"machtig/"
+			},
+			{
+			  "type":"directory",
+			  "source":"items/machtig/trains",
+			  "prefix":"machtig/trains/"
+			},
+			{
+			  "type":"directory",
+			  "source":"items/machtig/displays",
+			  "prefix":"machtig/displays/"
+			},
+			{
+			  "type":"directory",
+			  "source":"items/machtig/displays/front",
+			  "prefix":"machtig/displays/front"
+			},
+			 {
+			"type": "directory",
+			"source": "items",
+			"prefix": "items/"
+			}
+		]
+}
