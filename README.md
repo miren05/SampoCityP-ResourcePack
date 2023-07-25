@@ -3,6 +3,6 @@
 
 This resource pack will contain some trains, rails and LED displays.
 
-リソースパックの著作権はライブドアニュースに帰属するものとし、再配布・許可のない改変・自作発言の一切を禁じます。
+再配布・許可のない改変・自作発言の一切を禁じます。
 
-LivedoorNews has this resourcepack's copyright. Do not redistribute, modify which is not allowed and say that this is self made.
+Redistributing, modifing which is not allowed and claiming that this pack is self maded.
